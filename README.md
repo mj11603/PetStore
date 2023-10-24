@@ -1,4 +1,4 @@
-This README file include the transcript from ChatGPT
+This README file include the transcript from ChatGPT.
 Certainly! Below is a complete example of a C# MVC console application that interacts with the Pet Store API to retrieve available pets, sorts them by category, displays them in reverse order by name, and includes unit testing, dependency injection, and an authorization filter using an API key.
 
 **Step 1:** Install necessary NuGet packages for your project:
